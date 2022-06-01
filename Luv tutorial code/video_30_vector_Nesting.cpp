@@ -1,3 +1,11 @@
+// input
+// 3
+// 3
+// 44 33 44
+// 2
+// 33 456
+// 5
+// 11 22 33 44 55
 #include<bits/stdc++.h>
 using namespace std;
         // vector of pair
