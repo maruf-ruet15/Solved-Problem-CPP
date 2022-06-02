@@ -40,7 +40,19 @@ int main(){
 
 
 	 // problem : Given N strings , print unique strings in lexographical order with frequency
-	map<string,int> c;
+	// map<string,int> c;
+	// int n ;
+	// cin >> n;
+	// for(int i = 0 ; i <n ; ++i){
+	// 	string s;
+	// 	cin >> s;
+	// 	c[s]++; 
+	// }
+	// for(auto &value : c){
+	// 	cout<< value.first << " " << value.second << endl;
+	// }
+                       //use of unordered map  O(1)! it use hashing not input comparison
+	unordered_map<string,int> c;
 	int n ;
 	cin >> n;
 	for(int i = 0 ; i <n ; ++i){
@@ -48,7 +60,13 @@ int main(){
 		cin >> s;
 		c[s]++; 
 	}
-	for(auto &value : c){
-		cout<< value.first << " " << value.second << endl;
+	int q;
+	cin >> q;
+	while(q--){
+		string s;
+		cin >> s;
+		cout<<c[s]<<endl;
+
 	}
+	
 } 
