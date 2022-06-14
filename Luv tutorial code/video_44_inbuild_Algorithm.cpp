@@ -32,6 +32,8 @@ int main(){
 	reverse(s.begin(),s.end());
 	cout << s << endl;
 
+
+//note for array v.begin() -> v  and v.end() -> n
 	
 	
 

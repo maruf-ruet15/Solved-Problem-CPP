@@ -1,6 +1,11 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"hello maruf "<<endl;
-    return 0;
+    string str;
+    cin >> str;
+    string reverse_str;
+    for(int i = str.size()-1 ; i >= 0 ; --i){
+        reverse_str = reverse_str + str[i];
+    }
+    cout << reverse_str;
 }
