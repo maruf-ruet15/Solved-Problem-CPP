@@ -23,6 +23,7 @@ using namespace std;
             // O(n) solution
 //--------------------------------------------------
 
+   //here we will check both (is it minimum and the profit with it) and update
 int maxProfit_optimal(vector<int>& prices){
     int min_value = INT_MAX;
     int max_profit = 0;
