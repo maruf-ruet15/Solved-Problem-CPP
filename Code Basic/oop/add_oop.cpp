@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 class calculator {
    int number1;
@@ -17,7 +17,7 @@ class calculator {
    void divide() {
       cout<<"The division is "<<number1 / number2 ;
    }
-   calculator (int a , int b , char sym) {
+   void calculator (int a , int b , char sym) {
       number1 = a;
       number2 = b;
       symbol = sym;
@@ -35,5 +35,5 @@ class calculator {
    }
 };
 int main() {
-   calculator c1(12 , 34 , '-');
+   calculator c1(12 , 34 , '+');
 }
