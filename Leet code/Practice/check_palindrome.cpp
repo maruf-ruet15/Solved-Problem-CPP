@@ -24,4 +24,6 @@ int main(){
 	cin >> X;
 	s1.x = X;
 	cout << s1.isPalindrome(s1.x);
+
+	}
 }
