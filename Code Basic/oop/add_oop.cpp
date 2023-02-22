@@ -4,6 +4,7 @@ class calculator {
    int number1;
    int number2;
    char symbol;
+   
    public :
    void add() {
       cout<<"The sum is "<<number1 + number2 ;
@@ -35,5 +36,5 @@ class calculator {
    }
 };
 int main() {
-   calculator c1(12 , 34 , '+');
+   calculator c1(12 , 3 , '+');
 }
