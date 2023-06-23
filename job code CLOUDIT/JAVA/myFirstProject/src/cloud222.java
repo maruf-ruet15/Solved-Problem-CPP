@@ -2,11 +2,12 @@ public class cloud222
 
 {
 
+
     static void function_one(int n)
 
     {
 
-        if (n < 1)
+        if (n <1 )
 
             return;
 
