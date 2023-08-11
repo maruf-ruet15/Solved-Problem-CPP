@@ -8,6 +8,9 @@ import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 @Entity
 public class Todo {
+	public Todo() {
+		
+	}
 	
 	@Id
 	@GeneratedValue
