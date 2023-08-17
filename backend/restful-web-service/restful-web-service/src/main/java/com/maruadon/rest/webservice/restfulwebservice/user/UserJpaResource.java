@@ -44,6 +44,7 @@ public class UserJpaResource {
 	}
 
 	// GET /users
+	
 	@GetMapping("/jpa/users/{id}")
 	public EntityModel<User> retrieveUser(@PathVariable int id) {
 		Optional<User> user = repository.findById(id);
@@ -112,6 +113,13 @@ public class UserJpaResource {
 		return ResponseEntity.created(location).build();
 
 	}
+	
+	
+	
+
+
+
+	    
 
 
 }

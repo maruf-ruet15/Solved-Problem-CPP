@@ -18,3 +18,9 @@ values(20003,'I want to Get AWS Certified', 10002);
 
 insert into post(id,description,user_id)
 values(20004,'I want to learn Multi Cloud', 10002);
+
+insert into post(id,description,user_id)
+values(20005,'I want to learn hibru', 10003);
+
+insert into post(id,description,user_id)
+values(20006,'I want to learn Multi cooking', 10003);
