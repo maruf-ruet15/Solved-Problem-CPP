@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c528437-8c0b-4a14-a7b7-41961366febd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../docker-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/images/docker-architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/images/docker-traditional-deployment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/images/docker-virtual-machine-deployment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/images/docker-zz-deployment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-master/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-web-service/restful-web-service/src/main/java/com/maruadon/rest/webservice/restfulwebservice/RestfulWebServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-web-service/restful-web-service/src/main/java/com/maruadon/rest/webservice/restfulwebservice/RestfulWebServiceApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U6ynOdaDD63NTLjHiwp4b1gWQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Programming/backend/mysqlDockerTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MysqlDockerTestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mysqldockertest.MysqlDockerTestApplication" />
+      <module name="mysqlDockerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mysqldockertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MysqlDockerTestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c528437-8c0b-4a14-a7b7-41961366febd" name="Changes" comment="" />
+      <created>1692274495074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692274495074</updated>
+      <workItem from="1692274496723" duration="801000" />
+      <workItem from="1692291558298" duration="4218000" />
+      <workItem from="1692296698558" duration="926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

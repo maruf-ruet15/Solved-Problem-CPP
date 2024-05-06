@@ -2,26 +2,34 @@
 
 // In the following example, MyGrandChild is derived from class MyChild (which is derived from MyClass).
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 // Base class (parent)
 class MyClass {
-  public:
-    void myFunction() {
-      cout << "Some content in parent class." ;
-    }
+public:
+  void myFunction() {
+    cout << "Some content in parent class." ;
+  }
 };
 
 // Derived class (child)
 class MyChild: public MyClass {
+public:
+  void myChildFunction() {
+    cout << "derived in MyChild";
+  }
 };
 
 // Derived class (grandchild)
 class MyGrandChild: public MyChild {
+public:
+  void myGrandChildFunction() {
+    cout << "derived in MyGrandChild";
+  }
 };
 
 int main() {
   MyGrandChild myObj;
-  myObj.myFunction();
+  myObj.myGrandChildFunction();
   return 0;
-} 
+}
